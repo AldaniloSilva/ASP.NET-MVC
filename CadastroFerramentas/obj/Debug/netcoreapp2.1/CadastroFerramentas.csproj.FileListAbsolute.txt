@@ -1,0 +1,145 @@
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.deps.json
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.runtimeconfig.json
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.runtimeconfig.dev.json
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.dll
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.pdb
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.Views.dll
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.Views.pdb
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csproj.CoreCompileInputs.cache
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorAssemblyInfo.cache
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorAssemblyInfo.cs
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.AssemblyInfoInputs.cache
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.AssemblyInfo.cs
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.TagHelpers.input.cache
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.TagHelpers.output.cache
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorCoreGenerate.cache
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorTargetAssemblyInfo.cache
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorTargetAssemblyInfo.cs
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.Views.pdb
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.dll
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.pdb
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csproj.CopyComplete
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csprojAssemblyReference.cache
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Ferramentas\Index.g.cshtml.cs
+C:\Users\Alipio\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Ferramentas\Form.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.deps.json
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.runtimeconfig.json
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.runtimeconfig.dev.json
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.dll
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.pdb
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.Views.dll
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.Views.pdb
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csprojAssemblyReference.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csproj.CoreCompileInputs.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorAssemblyInfo.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorAssemblyInfo.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.AssemblyInfoInputs.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.AssemblyInfo.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.TagHelpers.input.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.TagHelpers.output.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorCoreGenerate.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Ferramentas\Form.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Ferramentas\Index.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorTargetAssemblyInfo.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorTargetAssemblyInfo.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.Views.pdb
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.dll
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.pdb
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csproj.CopyComplete
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.deps.json
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.runtimeconfig.json
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.runtimeconfig.dev.json
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.dll
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.pdb
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.Views.dll
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.Views.pdb
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csprojAssemblyReference.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csproj.CoreCompileInputs.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorAssemblyInfo.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorAssemblyInfo.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.AssemblyInfoInputs.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.AssemblyInfo.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.TagHelpers.input.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.TagHelpers.output.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorCoreGenerate.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Ferramentas\Form.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Ferramentas\Index.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorTargetAssemblyInfo.cache
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorTargetAssemblyInfo.cs
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.Views.pdb
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.dll
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.pdb
+C:\Users\082170001\Desktop\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csproj.CopyComplete
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.deps.json
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.runtimeconfig.json
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.runtimeconfig.dev.json
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.dll
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.pdb
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.Views.dll
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.Views.pdb
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csprojAssemblyReference.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csproj.CoreCompileInputs.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorAssemblyInfo.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorAssemblyInfo.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.AssemblyInfoInputs.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.AssemblyInfo.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.TagHelpers.input.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.TagHelpers.output.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorCoreGenerate.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Ferramentas\Form.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Ferramentas\Index.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorTargetAssemblyInfo.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorTargetAssemblyInfo.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.Views.pdb
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.dll
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.pdb
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\CadastroFerramentas\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csproj.CopyComplete
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.deps.json
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.runtimeconfig.json
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.runtimeconfig.dev.json
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.dll
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.pdb
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.Views.dll
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\bin\Debug\netcoreapp2.1\CadastroFerramentas.Views.pdb
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csprojAssemblyReference.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csproj.CoreCompileInputs.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorAssemblyInfo.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorAssemblyInfo.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.AssemblyInfoInputs.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.AssemblyInfo.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.TagHelpers.input.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.TagHelpers.output.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorCoreGenerate.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Ferramentas\Form.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Ferramentas\Index.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorTargetAssemblyInfo.cache
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.RazorTargetAssemblyInfo.cs
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.Views.pdb
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.dll
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.pdb
+F:\LINGUAGEM DE PROGRAMACAO I\Nova Apostila\CadastroFerramentas (3)\CadastroFerramentas\obj\Debug\netcoreapp2.1\CadastroFerramentas.csproj.CopyComplete
